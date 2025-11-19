@@ -1,0 +1,27 @@
+data_path: "data"
+input_filename: "discovery.csv"
+output_filename: "discovery_complete.csv"
+keywords_report:
+  - "consolidated annual report 2024"
+  - "financial statements"
+keywords_financial:
+  - "2024"
+  - "stock"
+  - "assets"
+  - "employee"
+keywords_discovery:
+  - "assets"
+  - ["revenue", "sales", "net turnover"]
+  - "employee"
+  - "country"
+valid_years:
+  - "2024"
+  - "2023"
+  - "2022"
+  - "2021"
+  - "2020"
+pause_time_min: 3
+pause_time_max: 7
+search_timeout: 20
+long_pause_groups_interval: 25
+long_pause_time: 120

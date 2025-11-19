@@ -1,0 +1,9 @@
+# Requires Python >= 3.12
+
+pandas
+requests
+beautifulsoup4
+googlesearch-python
+PyPDF2
+pycryptodome
+pyyaml
